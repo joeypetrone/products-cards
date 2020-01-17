@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.cards {
+   background-color: white; 
+   width: 250px;
+   box-shadow: 5px 10px 10px rgb(0, 0, 0);
+}
+
+.cards img {
+    width: 200px;
+}
+
+.desc { 
+    margin: 2px;   
+    text-align: center;
+}
+
+.desc h3 {
+    text-align: justify;
+}
